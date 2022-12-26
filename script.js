@@ -41,5 +41,5 @@ if (pair) {
 if (equal) {
   alert('O primeiro número é igual ao segundo número')
 } else {
-  alert('O primeiro número não é igual ao segundo número')
+  alert('O primeiro número é diferente do segundo número')
 }
